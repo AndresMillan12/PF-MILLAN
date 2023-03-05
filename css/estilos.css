@@ -95,6 +95,8 @@ body {
   }
   
 }
+
+/* cuerpo */
 .hero {
   width: 100%;
   height: calc(100vh - 10rem);
@@ -144,6 +146,7 @@ body {
   transform: scale(1.03);
 }
 
+/*Pie de pagina */
 .pie-pagina {
   width: 100%;
   background-color: #0e233f;
